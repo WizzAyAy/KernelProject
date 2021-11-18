@@ -1,8 +1,8 @@
 #!/bin/bash
 
-### NOYAU ###
-
 ### GRUB ###
+
+sudo ./grub/Tela-1080p/install.sh
 
 ### PERSONALISATION ###
 
