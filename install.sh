@@ -2,7 +2,9 @@
 
 ### GRUB ###
 
-sudo ./grub/Tela-1080p/install.sh
+cd grub/Tela-1080p
+sudo ./install.sh
+cd ../..
 
 ### PERSONALISATION ###
 
